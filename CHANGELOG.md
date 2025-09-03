@@ -5,3 +5,7 @@
  - Everyone learned how to edit the spreadsheet and make pull requests.
  - Juliet, Jayden, Damon, Christian, Grace, Joseph, and Zach have updated the spreadsheet.
  - Added discussions to chat.
+
+9/02/2025
+- Damon and Grace updated their highscores.
+- Puppy and Kady have updated the spreadsheet.
